@@ -1,1 +1,3 @@
-# git_training2
+# Git Training 2
+
+A repository of poetry
