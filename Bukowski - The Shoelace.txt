@@ -1,6 +1,6 @@
-a woman, a
+﻿a woman, a
 tire that’s flat, a
-disease, a
+disease, a # delete this line?
 desire: fears in front of you,
 fears that hold so still
 you can study them
